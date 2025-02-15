@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Dimas.
+### Hi! 👋 I'm ADI PERMANA SAPUTRA.
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
@@ -30,5 +30,4 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 ### Reach me on
 - <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
 - <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- adipermana@dicoding.com
